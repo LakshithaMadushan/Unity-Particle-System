@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle Effect", "Particle Effect.csproj", "{80CB70BD-110F-1645-6821-D58CB31D9984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Particle Effect.Editor", "Particle Effect.Editor.csproj", "{536005BE-9AF6-4E8D-F839-8319DFF1649D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80CB70BD-110F-1645-6821-D58CB31D9984}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80CB70BD-110F-1645-6821-D58CB31D9984}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80CB70BD-110F-1645-6821-D58CB31D9984}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80CB70BD-110F-1645-6821-D58CB31D9984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536005BE-9AF6-4E8D-F839-8319DFF1649D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536005BE-9AF6-4E8D-F839-8319DFF1649D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536005BE-9AF6-4E8D-F839-8319DFF1649D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536005BE-9AF6-4E8D-F839-8319DFF1649D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
